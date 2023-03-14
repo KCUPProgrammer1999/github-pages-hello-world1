@@ -1,0 +1,51 @@
+body {
+    background-color:  #FBCAF9;     /* the body is a light yellowish color*/
+    
+    
+    }
+    
+    h1 {
+        font-family: Courier New, monospace;       /* All h1 tags have good sized lettering and their color is set to a smokey color */ 
+        color: #938484;
+        font-size: 40px;
+      }
+    
+    #author {
+         font-family: Courier New, monospace;    /* poem author css formating*/
+        color: #938484;
+    }
+    
+    
+    #poem_title {
+     
+        font-family: Arial, sans-serif;          /* poem title is big thick font with smokey coloring */
+        font-size: 28px;
+        line-height: 1.5;
+        color: #938484;
+        margin-bottom: 20px;
+        
+    }
+    
+    
+    #divider {
+                     /* the dividing line after the poem title is 7px block that is colord a creamy white. This aids aesthetics and organization */ 
+        border: none;
+        height: 7px;
+        background-color: #C1B6B6;
+        margin: 10px 0;
+      }
+    
+    #line  {
+        font-family: Courier New, monospace;     /* This formats each paragraph in that makes up the poem. */
+        font-size: 21px;
+        line-height: 1.5;
+        color:  #5F0707  ;
+        margin-bottom: 20px;
+       /* text-decoration: underline;     */
+      }
+    
+    #inbetween {
+                                                 /* This formats the symbol that rests inbetween the paragraphs */
+        text-decoration: underline; 
+    
+    } 
